@@ -1,4 +1,9 @@
 ### Hi there 👋
+👋 Hi, I’m Godswill Daudu
+👀 I am a Data Scientist/Data Analyst
+🌱 I’m currently learning how to use data to make the world a better place.
+💞️ I’m looking to collaborate on Data science projects to enhance my skills
+📫 How to reach me - godswilldaudu2018@gmail.com
 
 <!--
 **Dev-Godswill/Dev-Godswill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

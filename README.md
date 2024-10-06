@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Godswill Daudu<br>👀 I am a Data Scientist/AL/ML Research Assistant/Software Developer/Data Analyst<br>🌱 I’m currently learning how to use data to make the world a better place.<br>💞️ I’m looking to collaborate on Data science projects to enhance my skills<br>📫 How to reach me - godswillodaudu@gmail.com
+👋 Hi, I’m Godswill Daudu<br>👀 I am a Data Scientist, AL/ML Research Assistant, Software Developer, Data Analyst<br>🌱 I’m currently learning how to use data to make the world a better place.<br>💞️ I’m looking to collaborate on Data science projects to enhance my skills<br>📫 How to reach me - godswillodaudu@gmail.com
 
 
 ## 🌐 Socials:
